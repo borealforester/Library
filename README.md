@@ -55,6 +55,5 @@ If you enjoy these deep dives into the digital skeleton of our world, follow my 
 
 *This archive is a living project, with new investigations added monthly as the digital skeleton of our world continues to be unearthed.*
 
----
-
+---[![Hits](https://hits.sh/github.com/borealforester/GitHub Repository.svg)](https://hits.sh/github.com/borealforester/GitHub Repository/)
 *© 2024 R. Brown. All rights reserved.*
