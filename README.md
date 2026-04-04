@@ -5,6 +5,14 @@
 Welcome to the official repository of **BrownTree**. This archive explores the hidden connective tissue between ancient technology, ancient knowledge, and the invisible architecture of our modern digital world.
 
 ## 📚 The Library
+
+---
+
+### The Breath of Life
+*From the first clinical pulse counted on the Nile in the Edwin Smith Papyrus to CRISPR's molecular scissors that now let us rewrite the three-billion-letter code of life, "The Breath of Life" reveals the unbroken 3,600-year thread that transformed the human body from sacred mystery into an editable machine.*
+
+📖 **[Read the Book](The%20Breath%20of%20Life.md)** | 🎙️ **[Listen to the Podcast](The%20Breath%20of%20Life.m4a)** | 📄 **[Download PDF](The%20Breath%20of%20Life.pdf)** |  [↑ Back to Top](#top)
+
 ---
 
 ### The Bones of Numbers
