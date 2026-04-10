@@ -53,4 +53,6 @@ Welcome to the official repository of **BrownTree**. This archive explores the h
 [![Hits](https://hits.sh/github.com/borealforester/GitHub Repository.svg)](https://hits.sh/github.com/borealforester/GitHub Repository/)
 
 ---
+## Historical Archives
+* [History of the Moorish Empire](Moorish-Empire-History/)
 *© 2024 BrownTree. All rights reserved.*
