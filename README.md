@@ -8,6 +8,11 @@ Welcome to the official repository of **BrownTree**. This archive explores the h
 
 ---
 
+### Etruria - The Hidden Inheritance
+Etruria The Hidden Inheritance recovers the practical foundations the Etruscans refined in central Italy—alphabet, underground drainage networks, true arches, industrial metallurgy, and the structured reading of signs—that Rome absorbed, renamed, and carried forward. Their political power ended; the systems did not. We are still living on the tools they first made workable.
+
+---
+
 ### The Breath of Life
 *From the first clinical pulse counted on the Nile in the Edwin Smith Papyrus to CRISPR's molecular scissors that now let us rewrite the three-billion-letter code of life, "The Breath of Life" reveals the unbroken 3,600-year thread that transformed the human body from sacred mystery into an editable machine.*
 
@@ -19,7 +24,6 @@ Welcome to the official repository of **BrownTree**. This archive explores the h
 *The Bones of Numbers exposes the forbidden 45,000-year skeleton of civilization—how one ancient tally scratch mutated through Indian zero, Baghdad algorithms, cathedral clocks, Jacquard punched cards, Babbage & Lovelace's Analytical Engine, and silicon into the living digital bone that secretly controls every empire, machine, economy, and mind on Earth.*
 
 📖 **[Read the Book](The%20Bones%20of%20Numbers.md)** | 🎙️ **[Listen to the Podcast](The%20Bones%20of%20Numbers.m4a)** | 📄 **[Download PDF](The%20Bones%20of%20Numbers.pdf)** |  [↑ Back to Top](#top)
-
 
 ---
 
